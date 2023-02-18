@@ -1,8 +1,8 @@
-{ ""[Dbasic theory":"(What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC.",
-  "[A[A[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C1[3~[3~[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[B[B[D[D[D[D	[A[A[C[C[C[C[C[C[3~[3~[3~[3[B[B[D[D[D[D[D2":"client-server architecture",
-	[D[D[D[D[D[D"3":"HTTP Methods",
+{ "1":"basic theory:(What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC.",
+  "2":"client-server architecture",
+  "3":"HTTP Methods",
   "4":"HTTP server response codes",
-  "5":" Structures of HTTP requests and responses.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3~[3~["[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[s[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C,
+  "5":"Structures of HTTP requests and responses",
   "6":"What is JSON, XML. Their structure",
   "7":"API testing via Postman (JS, API autotests)",
   "8":"Removing and reading logs from an external server"
